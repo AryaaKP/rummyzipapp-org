@@ -1,9 +1,14 @@
 # Rummy Zip App Official Repository | rummyzipapp.org
 
+[![Live Website / GitHub Pages](https://img.shields.io/badge/Live%20Website-GitHub%20Pages-2ea44f?style=for-the-badge&logo=github)](https://AryaaKP.github.io/rummyzipapp-org/)
 [![Official Website](https://img.shields.io/badge/Official%20Site-rummyzipapp.org-brightgreen?style=for-the-badge)](https://rummyzipapp.org)
 [![Direct Referral](https://img.shields.io/badge/Direct%20Download-Claim%20₹500%20Rummy%20Bonus-gold?style=for-the-badge)](https://rummyzip3.com/?code=C0BNHMH7LRZ&t=1790312539)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Join%20VIP-blue?style=for-the-badge)](https://t.me/winrealcash500)
 [![License](https://img.shields.io/badge/Fair%20Play-100%25%20Verified%20RNG-blueviolet?style=for-the-badge)](https://rummyzipapp.org)
+
+> 🌐 **Live Website / GitHub Pages:** [https://AryaaKP.github.io/rummyzipapp-org/](https://AryaaKP.github.io/rummyzipapp-org/)
+> 
+> 🔗 **Official Domain Mirror:** [https://rummyzipapp.org](https://rummyzipapp.org) | ⬇ **Direct APK Referral:** [₹500 Rummy Bonus](https://rummyzip3.com/?code=C0BNHMH7LRZ&t=1790312539)
 
 Welcome to the definitive, fully humanized documentation and web repository for **Rummy Zip App** ([https://rummyzipapp.org](https://rummyzipapp.org)). This documentation serves as a comprehensive reference guide for users, players, developers, and community managers seeking verified APK download links, mathematical fairness disclosures, problem-solving walkthroughs, and organic search term optimization.
 
@@ -60,6 +65,7 @@ To dominate organic Google, Bing, and YouTube searches, this repository directly
 | :--- | :--- |
 | **Application Title** | Rummy Zip App (Official Release 2026) |
 | **Canonical Domain** | [`https://rummyzipapp.org`](https://rummyzipapp.org) |
+| **Live Website (GitHub Pages)** | [`https://AryaaKP.github.io/rummyzipapp-org/`](https://AryaaKP.github.io/rummyzipapp-org/) |
 | **Theme / Aesthetic** | Electric Royal Sapphire (Hex: `#2563EB` / `#0B132B`) |
 | **Active Referral CTA Link** | [`https://rummyzip3.com/?code=C0BNHMH7LRZ&t=1790312539`](https://rummyzip3.com/?code=C0BNHMH7LRZ&t=1790312539) |
 | **Official VIP Telegram** | [`https://t.me/winrealcash500`](https://t.me/winrealcash500) |
@@ -196,5 +202,6 @@ Aviator ek cryptographic crash game hai jisme multiplier har round me randomly c
 This game involves an element of financial risk and may be habit-forming. Please play responsibly and within your financial limits. Participation is strictly restricted to persons aged 18 years and above. Not applicable in territories where local legislation restricts online skill-based cash competitions (such as Andhra Pradesh, Telangana, Assam, Odisha, and Nagaland).
 
 - **Official Web Domain:** [https://rummyzipapp.org](https://rummyzipapp.org)
+- **Live Website (GitHub Pages):** [https://AryaaKP.github.io/rummyzipapp-org/](https://AryaaKP.github.io/rummyzipapp-org/)
 - **Direct Referral Installation:** [https://rummyzip3.com/?code=C0BNHMH7LRZ&t=1790312539](https://rummyzip3.com/?code=C0BNHMH7LRZ&t=1790312539)
 - **Community VIP Telegram:** [https://t.me/winrealcash500](https://t.me/winrealcash500)
