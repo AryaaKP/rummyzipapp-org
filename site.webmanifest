@@ -1,0 +1,23 @@
+{
+  "name": "Rummy Zip App Official App",
+  "short_name": "Rummy Zip App",
+  "description": "India's Lightest, Fastest 13-Card Cash Rummy & Multi-Table Tournaments",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B132B",
+  "theme_color": "#2563EB",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml"
+    }
+  ]
+}
